@@ -11,6 +11,7 @@ const blogFiles = [
   "the-boomerang-called-past.txt",
   "letter.txt",
   "western.txt",
+  "eyes.txt",
   // add new filenames here as you create them
 ];
 
